@@ -14,7 +14,7 @@ set(LibRoot "${CMAKE_CURRENT_SOURCE_DIR}/${LibraryVersion}")
 set(ArchivePath "${LibRoot}.tar.gz")
 if(NOT EXISTS ${ArchivePath})
   file(DOWNLOAD
-    "https://github.com/KRTirtho/metadata_god/releases/download/${LibraryVersion}/other.tar.gz"
+    "https://github.com/junaid140/metadata_god/releases/download/${LibraryVersion}/other.tar.gz"
     ${ArchivePath}
     TLS_VERIFY ON
   )

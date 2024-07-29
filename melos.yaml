@@ -1,6 +1,6 @@
 name: metadata_god
 
-repository: https://github.com/KRTirtho/metadata_god
+repository: https://github.com/junaid140/metadata_god
 
 packages:
   - packages/**

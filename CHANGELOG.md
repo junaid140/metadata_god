@@ -21,7 +21,7 @@ Packages with other changes:
 
 #### `metadata_god` - `v0.5.2+1`
 
- - **REFACTOR**: use lofty-rs for metadata instead of audiotags ([#21](https://github.com/KRTirtho/metadata_god/issues/21)).
+ - **REFACTOR**: use lofty-rs for metadata instead of audiotags ([#21](https://github.com/junaid140/metadata_god/issues/21)).
  - **FIX**: invalid syntax.
  - **FIX**: rename Image to Picture to resolve name conflict with material Image.
  - **FIX**: export Image type.
@@ -70,7 +70,7 @@ Packages with other changes:
 #### `metadata_god` - `v0.5.0`
 
 
- - **REFACTOR**: use lofty-rs for metadata instead of audiotags ([#21](https://github.com/KRTirtho/metadata_god/issues/21)).
+ - **REFACTOR**: use lofty-rs for metadata instead of audiotags ([#21](https://github.com/junaid140/metadata_god/issues/21)).
  - **FIX**: add branch main because to Cargo.toml because it won't use that by default for some godforsaken reason.
 
 
